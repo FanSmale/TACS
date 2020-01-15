@@ -1,0 +1,1 @@
+30, accuracy = 0.9416666666666667, algorithm wins = [0, 5, 0, 0, 0, 0, 0, ], final number of blocks = 6, number of pure blocks = 1, pure blocks size sum = 50, number of small blocks = 0, misclassified = 7, misclassified in pure blocks = 0, misclassified by 1NN = 7, misclassified by default label = 0, numDefaultLabeled = 0, unhandled = []
